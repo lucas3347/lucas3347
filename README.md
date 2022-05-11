@@ -1,5 +1,5 @@
 # SOBRE MIM
-- 👋 Olá, meu nome é @lucas3347
+- 👋 Olá, meu nome é **@lucas3347**
 - 👍 Meu e-mail de contato é lucas.nicolauuno.oliveira@escola.pr.gov.br
 - 👍 Eu estou interessado em aprender novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente Javascript e Scratch
